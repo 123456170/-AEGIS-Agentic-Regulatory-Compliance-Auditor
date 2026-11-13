@@ -717,7 +717,7 @@ CSS = """
  repeating-linear-gradient(0deg, rgba(15,23,42,.025) 0 1px, transparent 1px 42px),
  repeating-linear-gradient(90deg, rgba(15,23,42,.025) 0 1px, transparent 1px 42px),
  #F4F7FB; color:var(--ink);}
-#MainMenu,footer,[data-testid="stDecoration"],[data-testid="stToolbar"]{display:none;}
+footer,[data-testid="stDecoration"]{display:none;}
 [data-testid="stHeader"]{background:transparent;}
 .block-container{padding-top:1.1rem;padding-bottom:2rem;max-width:1500px;}
 html,body,[class*="css"]{font-family:'Space Grotesk',system-ui,sans-serif;}
